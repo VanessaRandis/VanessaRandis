@@ -1,5 +1,5 @@
 
-## Hello, this is Vanessa Randis 😊
+## Welcome, this is Vanessa Randis 😊
 Full stack developer and Teacher
 
 <p><strong>I love to learn new technologies. Since 2022 I have dedicated myself to learning and improving as software developer. Before, I worked as a flight attendant for 11 years.</strong></p>
