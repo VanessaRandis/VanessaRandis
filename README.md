@@ -1,10 +1,12 @@
 ## Hello, this is Vanessa Randis 😊
 Full stack developer and Teacher
 
-## My name is Vanessa and I have been studying since 2022, when I started my career transition.
+<p><strong> My name is Vanessa and I have been studying technology since 2022, when I started my career transition.</strong></p>
 
-- **Teacher** at Mogi das Cruzes University since 2024
+- **Teacher at Mogi das Cruzes University since 2024**: Data Structure, Software Analysis and Implementation, Database, Project Management with ITIL, Cobit, Agile Methodologies
 - **Full Stack Developer** with a year experience
+- **Speaks**: Portuguese, English, Spanish and Italian
+
 
 <div align="left">
   <a href="https://github.com/VanessaRandis">
@@ -16,12 +18,17 @@ Full stack developer and Teacher
   <img align="center" alt="Van-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Van-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Van-Mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Van-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Van-Mysql" height="60" width="70" src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma">
+  <img align="center" alt="Van-Mysql" height="60" width="70" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img align="center" alt="Van-Mysql" height="80" width="80" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Van-Mysql" height="80" width="80" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
+  <img align="center" alt="Van-Js" height="30" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Van-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Van-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Van-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Van-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Van-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
 
 </div>
 
@@ -35,18 +42,6 @@ Full stack developer and Teacher
 
 
 
-## 💻 Tech Stack & Competencies ##
-
-- 🔭 I’m currently working in teaching programming and data structure
-- 🌱 I’m currently learning Javascript and Typescript
-- Architecture & Patterns: Microservices-based architecture
-
-- Backend Frameworks: Spring Boot, Spring Framework
-- Tools & Utilities: Postman, Trello, Notion
-- Project & Team Practices: Agile methodologies (Scrum), Clean Code principles
-- DevOps & CI/CD: Containerization with Docker
-- Databases: Relational (SQL)
-- REST API development
 
 
 
