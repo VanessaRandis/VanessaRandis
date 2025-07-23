@@ -2,7 +2,7 @@
 ## Hello, this is Vanessa Randis 😊
 Full stack developer and Teacher
 
-<p><strong>I have been studying technology since 2022, when I started my career transition. Before, I worked as a flight attendant for 11 years.</strong></p>
+<p><strong>I love to learn new technologies. Since 2022 I have dedicated myself to learning and improving as software developer. Before, I worked as a flight attendant for 11 years.</strong></p>
 
 - **Teacher at Mogi das Cruzes University since 2024**: Data Structure, Software Analysis and Implementation, Database, Project Management with ITIL, Cobit, Agile Methodologies
 - **Full Stack Developer** with a year experience
