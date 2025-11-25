@@ -9,12 +9,7 @@ Full stack developer and Teacher
 - **Speaks**: Portuguese, English, Spanish and Italian
 
 
-<div>
-<a href="https://github.com/VanessaRandis">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaRandis&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaRandis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
+
 <div align="left" style="display: inline_block"><br>
   <img align="center" alt="Van-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Van-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
